@@ -6,7 +6,6 @@ const App = (props) => {
 
   return (
     <div className="App" id="main">
-      // Do not alter the main div
       <Action/>
     </div>
   );
